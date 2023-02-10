@@ -2,7 +2,7 @@
 
 Desenvolvi esse projeto como desafio final do processo seletivo para estágio na Agência Mandarin.
 
-Minha ideia foi criar um parque pokemon, onde eles se sentiriam confortáveis, e nós poderíamos interagir com eles, e ver suas cartas.
+Minha ideia foi criar um parque pokemon, onde eles se sentiriam confortáveis, e nós poderíamos interagir com eles!
 
 ## Algumas das features dessa aplicação são:
 
