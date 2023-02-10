@@ -1,0 +1,1 @@
+export const BASE_URL = "https://desafio-estagiarios-pokemon-api-production.up.railway.app/pokemons"
